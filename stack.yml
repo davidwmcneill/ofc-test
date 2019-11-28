@@ -7,9 +7,3 @@ functions:
     lang: node10-express
     handler: ./timezone-shift
     image: dockerhub_username/timezone-shift:latest
-
-
-
-
-
-
