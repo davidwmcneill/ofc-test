@@ -9,5 +9,3 @@ functions:
     image: dockerhub_username/timezone-shift:latest
     environment:
       write_debug: true
-      combine_output: false
-
