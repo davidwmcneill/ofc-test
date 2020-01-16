@@ -7,5 +7,3 @@ functions:
     lang: ofc-custom-node-template
     handler: ./timezone-shift
     image: dockerhub_username/timezone-shift:latest
-
-      
