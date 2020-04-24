@@ -6,6 +6,6 @@ functions:
   timezone-shift:
     lang: ofc-custom-node-template
     handler: ./timezone-shift
-    image: dockerhub_username/timezone-shift:latest
+    image: dockerhub_username/timezone-shift-ecr:latest
     secrets:
       - my-secrets
